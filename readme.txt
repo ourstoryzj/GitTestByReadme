@@ -1,3 +1,3 @@
 Hello OSS.
 
-Git is free sofework.
+Git is distributed free sofework.
